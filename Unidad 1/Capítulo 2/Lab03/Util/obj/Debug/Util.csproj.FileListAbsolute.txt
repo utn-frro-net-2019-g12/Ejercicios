@@ -1,0 +1,5 @@
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Util\bin\Debug\Util.dll
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Util\bin\Debug\Util.pdb
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Util\obj\Debug\Util.dll
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Util\obj\Debug\Util.pdb

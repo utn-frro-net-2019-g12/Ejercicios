@@ -1,0 +1,7 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej2\bin\Debug\Ej2.exe.config
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej2\bin\Debug\Ej2.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej2\bin\Debug\Ej2.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej2\obj\Debug\Ej2.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej2\obj\Debug\Ej2.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej2\obj\Debug\Ej2.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej2\obj\Debug\Ej2.csprojAssemblyReference.cache

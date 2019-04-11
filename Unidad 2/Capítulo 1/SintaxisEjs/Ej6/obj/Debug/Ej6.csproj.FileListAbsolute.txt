@@ -1,0 +1,6 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej6\bin\Debug\Ej6.exe.config
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej6\bin\Debug\Ej6.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej6\bin\Debug\Ej6.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej6\obj\Debug\Ej6.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej6\obj\Debug\Ej6.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\SintaxisEjs\Ej6\obj\Debug\Ej6.pdb
