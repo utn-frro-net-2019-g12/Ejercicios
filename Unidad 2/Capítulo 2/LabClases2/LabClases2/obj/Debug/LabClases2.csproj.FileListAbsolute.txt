@@ -1,0 +1,10 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\bin\Debug\LabClases2.exe.config
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\bin\Debug\LabClases2.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\bin\Debug\LabClases2.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\obj\Debug\LabClases2.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\obj\Debug\LabClases2.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\obj\Debug\LabClases2.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\obj\Debug\LabClases2.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\bin\Debug\Clases.dll
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\bin\Debug\Clases.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases2\LabClases2\obj\Debug\LabClases2.csproj.CopyComplete

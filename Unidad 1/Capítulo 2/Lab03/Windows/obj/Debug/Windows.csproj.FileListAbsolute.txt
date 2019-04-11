@@ -1,0 +1,12 @@
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\bin\Debug\Windows.exe.config
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\bin\Debug\Windows.exe
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\bin\Debug\Windows.pdb
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\bin\Debug\Util.dll
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\bin\Debug\Util.pdb
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\obj\Debug\Windows.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\obj\Debug\Windows.csproj.CopyComplete
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\obj\Debug\Windows.exe
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Windows\obj\Debug\Windows.pdb

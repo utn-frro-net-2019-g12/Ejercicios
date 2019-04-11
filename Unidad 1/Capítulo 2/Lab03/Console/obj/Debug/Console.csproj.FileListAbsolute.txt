@@ -1,0 +1,10 @@
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\bin\Debug\Console.exe.config
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\bin\Debug\Console.exe
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\bin\Debug\Console.pdb
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\bin\Debug\Util.dll
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\bin\Debug\Util.pdb
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\obj\Debug\Console.csproj.CopyComplete
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\obj\Debug\Console.exe
+C:\Users\Windows\Documents\Visual Studio\Proyectos\Lab03\Console\obj\Debug\Console.pdb

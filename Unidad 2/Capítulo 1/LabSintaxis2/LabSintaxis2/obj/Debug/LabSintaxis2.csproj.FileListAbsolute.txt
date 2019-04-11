@@ -1,0 +1,6 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis2\LabSintaxis2\bin\Debug\LabSintaxis2.exe.config
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis2\LabSintaxis2\bin\Debug\LabSintaxis2.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis2\LabSintaxis2\bin\Debug\LabSintaxis2.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis2\LabSintaxis2\obj\Debug\LabSintaxis2.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis2\LabSintaxis2\obj\Debug\LabSintaxis2.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis2\LabSintaxis2\obj\Debug\LabSintaxis2.pdb

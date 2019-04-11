@@ -1,0 +1,7 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis1\LabSintaxis1\bin\Debug\LabSintaxis1.exe.config
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis1\LabSintaxis1\bin\Debug\LabSintaxis1.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis1\LabSintaxis1\bin\Debug\LabSintaxis1.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis1\LabSintaxis1\obj\Debug\LabSintaxis1.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis1\LabSintaxis1\obj\Debug\LabSintaxis1.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis1\LabSintaxis1\obj\Debug\LabSintaxis1.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabSintaxis1\LabSintaxis1\obj\Debug\LabSintaxis1.pdb
