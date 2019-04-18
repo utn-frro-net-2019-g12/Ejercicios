@@ -1,0 +1,6 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases\Geometria\bin\Debug\Geometria.dll
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases\Geometria\bin\Debug\Geometria.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases\Geometria\obj\Debug\Geometria.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases\Geometria\obj\Debug\Geometria.dll
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases\Geometria\obj\Debug\Geometria.pdb

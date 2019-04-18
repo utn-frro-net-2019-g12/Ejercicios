@@ -1,0 +1,10 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\bin\Debug\Principal.exe.config
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\bin\Debug\Principal.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\bin\Debug\Principal.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\bin\Debug\Clases.dll
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\bin\Debug\Clases.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\obj\Debug\Principal.csproj.CopyComplete
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\obj\Debug\Principal.exe
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabClases4\Principal\obj\Debug\Principal.pdb

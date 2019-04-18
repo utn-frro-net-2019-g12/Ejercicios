@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clases
-{
     namespace Clases
     {
         public class A
@@ -22,5 +20,3 @@ namespace Clases
             public void G() { Console.WriteLine("B.G"); }
         }
     }
-
-}
