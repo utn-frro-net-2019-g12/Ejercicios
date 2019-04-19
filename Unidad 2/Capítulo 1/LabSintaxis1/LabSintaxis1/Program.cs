@@ -15,7 +15,8 @@ namespace LabSintaxis1
             Console.Write("Ingrese Texto: ");
             inputTexto = Console.ReadLine();
             Console.WriteLine();
-            if (inputTexto != "") {
+            if (inputTexto != "")
+            {
                 Console.WriteLine("MENU DE OPCIONES");
                 Console.WriteLine("1- Ver texto en mayúsculas");
                 Console.WriteLine("2- Ver texto en minúsculas");
@@ -24,24 +25,21 @@ namespace LabSintaxis1
                 Console.Write("Ingrese Número: ");
                 ConsoleKeyInfo opcion = Console.ReadKey();
                 Console.WriteLine();
-                if (opcion.Key == ConsoleKey.D1) {
+                if (opcion.Key == ConsoleKey.D1)
+                {
                     Console.WriteLine(inputTexto.ToUpper());
-                } else {
-                    if (opcion.Key == ConsoleKey.D2)
-                    {
-                        Console.WriteLine(inputTexto.ToLower());
-                    }
-                    else {
-                        if(opcion.Key == ConsoleKey.D3) {
-                            Console.WriteLine(inputTexto.Length);
-                        } else {
-                            Console.WriteLine("No se ha seleccionado Opción Disponible. Terminar");
-                        }
-                    }
+                } else if(opcion.Key == ConsoleKey.D2)
+                {
+                    Console.WriteLine(inputTexto.ToLower());
+                } else if (opcion.Key == ConsoleKey.D3)
+                {
+                    Console.WriteLine(inputTexto.Length); 
+                } else
+                {
+                    Console.WriteLine("No se ha seleccionado Opción Disponible. Terminar");
                 }
-            } else Console.WriteLine("No se ha ingresado nada. Terminar");
+            }else Console.WriteLine("No se ha ingresado nada. Terminar");
             Console.ReadKey();
-
         }
     }
 }

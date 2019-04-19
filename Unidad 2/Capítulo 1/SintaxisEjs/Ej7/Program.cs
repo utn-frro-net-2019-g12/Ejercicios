@@ -27,6 +27,7 @@ namespace Ej7
                 if (noPrimo == false) {
                     if (possib & num==twin+2) {
                         Console.Write(twin + " " + num + " ");
+                        num--;
                         counter++;
                         twin = 0;
                         possib = false;

@@ -10,7 +10,6 @@ namespace LabSintaxis2
     {
         static void Main(string[] args)
         {
-
             string inputTexto = "";
             Console.Write("Ingrese Texto: ");
             inputTexto = Console.ReadLine();
@@ -27,19 +26,14 @@ namespace LabSintaxis2
                 Console.WriteLine();
                 switch (opcion.Key)
                 {
-
                     case (ConsoleKey.D1): Console.WriteLine(inputTexto.ToUpper()); break;
                     case (ConsoleKey.D2): Console.WriteLine(inputTexto.ToLower()); break;
                     case (ConsoleKey.D3): Console.WriteLine(inputTexto.Length); break;
                     default: Console.WriteLine("No se ha seleccionado Opción Disponible. Terminar"); break;
-
-
                 }
-
             }
             else { Console.WriteLine("No se ha ingresado nada. Terminar"); }
             Console.ReadKey();
-
         }
     }
 }
