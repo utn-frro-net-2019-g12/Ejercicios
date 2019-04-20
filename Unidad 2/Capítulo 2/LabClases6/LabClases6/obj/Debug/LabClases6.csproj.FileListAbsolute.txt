@@ -1,0 +1,7 @@
+C:\Users\motio\Desktop\LabClases6\LabClases6\bin\Debug\LabClases6.exe.config
+C:\Users\motio\Desktop\LabClases6\LabClases6\bin\Debug\LabClases6.exe
+C:\Users\motio\Desktop\LabClases6\LabClases6\bin\Debug\LabClases6.pdb
+C:\Users\motio\Desktop\LabClases6\LabClases6\obj\Debug\LabClases6.csprojAssemblyReference.cache
+C:\Users\motio\Desktop\LabClases6\LabClases6\obj\Debug\LabClases6.csproj.CoreCompileInputs.cache
+C:\Users\motio\Desktop\LabClases6\LabClases6\obj\Debug\LabClases6.exe
+C:\Users\motio\Desktop\LabClases6\LabClases6\obj\Debug\LabClases6.pdb

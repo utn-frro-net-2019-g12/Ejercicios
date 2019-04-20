@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LabClases6.Program" Collapsed="true">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabClases6.Juego">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAACIAAAAAAAAAAAAAAAAAAgBIAAAAAAA=</HashCode>
+      <FileName>Juego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabClases6.Jugada">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAASAAAAAAAQAAAAAAAAAARAAAAAAAAAAAAAAABEAA=</HashCode>
+      <FileName>Jugada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabClases6.JugadaConAyuda">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>JugadaConAyuda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
