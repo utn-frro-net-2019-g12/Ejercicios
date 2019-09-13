@@ -1,0 +1,9 @@
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\UI.Desktop.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\UI.Desktop.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.pdb

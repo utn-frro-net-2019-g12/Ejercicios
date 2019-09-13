@@ -1,0 +1,6 @@
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Entities\bin\Debug\Business.Entities.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Entities\bin\Debug\Business.Entities.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Entities\obj\Debug\Business.Entities.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Entities\obj\Debug\Business.Entities.pdb

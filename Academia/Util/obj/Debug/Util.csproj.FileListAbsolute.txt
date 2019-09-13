@@ -1,0 +1,6 @@
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Util\bin\Debug\Util.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Util\bin\Debug\Util.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Util\obj\Debug\Util.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Util\obj\Debug\Util.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Util\obj\Debug\Util.pdb
