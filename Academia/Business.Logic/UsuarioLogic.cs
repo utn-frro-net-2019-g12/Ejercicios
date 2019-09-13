@@ -9,8 +9,8 @@ using Data.Database;
 namespace Business.Logic {
     public class UsuarioLogic : BusinessLogic {
 
-        public UsuarioLogic(UsuarioAdapter UsuarioData) {
-            this.UsuarioData = UsuarioData;
+        public UsuarioLogic() {
+            this.UsuarioData = new UsuarioAdapter();
         }
 
         // UsuarioAdapter

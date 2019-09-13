@@ -58,3 +58,5 @@ e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Entiti
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Logic.dll
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Entities.pdb
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Logic.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Data.Database.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Data.Database.pdb

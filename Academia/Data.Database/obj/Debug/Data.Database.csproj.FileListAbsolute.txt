@@ -1,2 +1,9 @@
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\bin\Debug\Data.Database.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\bin\Debug\Data.Database.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\bin\Debug\Business.Entities.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\bin\Debug\Business.Entities.pdb
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.pdb

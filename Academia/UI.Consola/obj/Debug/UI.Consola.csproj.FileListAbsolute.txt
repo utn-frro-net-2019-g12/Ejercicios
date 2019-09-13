@@ -1,0 +1,14 @@
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\UI.Consola.exe.config
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\UI.Consola.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\UI.Consola.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\Business.Entities.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\Business.Logic.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\Data.Database.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\Business.Entities.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\Business.Logic.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\bin\Debug\Data.Database.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\obj\Debug\UI.Consola.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Consola\obj\Debug\UI.Consola.pdb

@@ -4,3 +4,8 @@ e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\obj\Debug\B
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\obj\Debug\Business.Logic.dll
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\obj\Debug\Business.Logic.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\bin\Debug\Business.Entities.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\bin\Debug\Data.Database.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\bin\Debug\Business.Entities.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\bin\Debug\Data.Database.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
