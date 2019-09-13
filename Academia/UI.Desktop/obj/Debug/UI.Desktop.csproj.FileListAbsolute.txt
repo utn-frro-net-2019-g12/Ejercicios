@@ -7,3 +7,8 @@ e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.De
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.exe
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Business.Entities.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Business.Logic.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Business.Entities.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Business.Logic.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete

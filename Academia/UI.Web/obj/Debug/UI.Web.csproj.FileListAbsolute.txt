@@ -54,3 +54,7 @@ e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\obj\Debug\UI.Web.cs
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\obj\Debug\UI.Web.csproj.CopyComplete
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\obj\Debug\UI.Web.dll
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\obj\Debug\UI.Web.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Entities.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Logic.dll
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Entities.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Web\bin\Business.Logic.pdb
