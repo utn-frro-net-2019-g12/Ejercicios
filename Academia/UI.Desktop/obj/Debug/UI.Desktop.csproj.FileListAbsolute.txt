@@ -14,3 +14,5 @@ e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Busin
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Data.Database.dll
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Data.Database.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.formLogin.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.formMain.resources

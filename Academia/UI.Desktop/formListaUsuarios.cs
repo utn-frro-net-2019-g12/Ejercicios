@@ -9,9 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace UI.Desktop {
-    public partial class Form1 : Form {
-        public Form1() {
+    public partial class formListaUsuarios : Form {
+        public formListaUsuarios() {
             InitializeComponent();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e) {
+
         }
     }
 }
