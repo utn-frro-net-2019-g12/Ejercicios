@@ -16,3 +16,4 @@ e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Data.
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\bin\Debug\Data.Database.pdb
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.formLogin.resources
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.formMain.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\UI.Desktop\obj\Debug\UI.Desktop.formUsuarios.resources

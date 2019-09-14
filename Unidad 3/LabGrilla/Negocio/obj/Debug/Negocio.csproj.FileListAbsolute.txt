@@ -1,0 +1,6 @@
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabGrilla\Negocio\bin\Debug\Negocio.dll
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabGrilla\Negocio\bin\Debug\Negocio.pdb
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabGrilla\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabGrilla\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabGrilla\Negocio\obj\Debug\Negocio.dll
+e:\Users\Nicolas\Documents\Visual Studio 2017\Projects\LabGrilla\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,11 @@
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\bin\Debug\formGraphs.exe.config
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\bin\Debug\formGraphs.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\bin\Debug\formGraphs.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\formGraphs.formLines.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\formGraphs.formRectangles.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\formGraphs.Properties.Resources.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\formGraphs.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\formGraphs.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\Graphics\obj\Debug\formGraphs.formColors.resources

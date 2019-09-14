@@ -1,0 +1,10 @@
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\bin\Debug\formGraphs.exe.config
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\bin\Debug\formGraphs.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\bin\Debug\formGraphs.pdb
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\obj\Debug\formGraphics.csprojAssemblyReference.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\obj\Debug\formGraphs.formLines.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\obj\Debug\formGraphs.Properties.Resources.resources
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\obj\Debug\formGraphics.csproj.GenerateResource.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\obj\Debug\formGraphics.csproj.CoreCompileInputs.cache
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\obj\Debug\formGraphs.exe
+e:\Users\Nicolas\Documents\GitHub\Ejercicios\Unidad 3\LabGraphics\formGraphics\obj\Debug\formGraphs.pdb
