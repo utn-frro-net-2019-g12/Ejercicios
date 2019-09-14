@@ -27,23 +27,23 @@
             this.toolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
             this.tlUsuarios = new System.Windows.Forms.TableLayoutPanel();
             this.dgvUsuarios = new System.Windows.Forms.DataGridView();
-            this.btnActualizar = new System.Windows.Forms.Button();
-            this.btnSalir = new System.Windows.Forms.Button();
-            this.tsUsuarios = new System.Windows.Forms.ToolStrip();
-            this.mnuArchivo = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnuSalir = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnsPrincipal = new System.Windows.Forms.MenuStrip();
-            this.mnuUsuarios = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnuInicio = new System.Windows.Forms.ToolStripMenuItem();
             this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.usuario = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.email = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.habilitado = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.btnActualizar = new System.Windows.Forms.Button();
+            this.btnSalir = new System.Windows.Forms.Button();
+            this.tsUsuarios = new System.Windows.Forms.ToolStrip();
             this.tsbNuevo = new System.Windows.Forms.ToolStripButton();
             this.tbsEditar = new System.Windows.Forms.ToolStripButton();
             this.tbsEliminar = new System.Windows.Forms.ToolStripButton();
+            this.mnuArchivo = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnuInicio = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnuUsuarios = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnuSalir = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnsPrincipal = new System.Windows.Forms.MenuStrip();
             this.toolStripContainer1.ContentPanel.SuspendLayout();
             this.toolStripContainer1.TopToolStripPanel.SuspendLayout();
             this.toolStripContainer1.SuspendLayout();
@@ -104,86 +104,13 @@
             this.tlUsuarios.SetColumnSpan(this.dgvUsuarios, 2);
             this.dgvUsuarios.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvUsuarios.Location = new System.Drawing.Point(3, 3);
+            this.dgvUsuarios.MultiSelect = false;
             this.dgvUsuarios.Name = "dgvUsuarios";
             this.dgvUsuarios.ReadOnly = true;
             this.dgvUsuarios.RowTemplate.Height = 28;
+            this.dgvUsuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvUsuarios.Size = new System.Drawing.Size(794, 325);
             this.dgvUsuarios.TabIndex = 0;
-            // 
-            // btnActualizar
-            // 
-            this.btnActualizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnActualizar.Location = new System.Drawing.Point(591, 334);
-            this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(100, 34);
-            this.btnActualizar.TabIndex = 1;
-            this.btnActualizar.Text = "Actualizar";
-            this.btnActualizar.UseVisualStyleBackColor = true;
-            this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
-            // 
-            // btnSalir
-            // 
-            this.btnSalir.Location = new System.Drawing.Point(697, 334);
-            this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(100, 34);
-            this.btnSalir.TabIndex = 2;
-            this.btnSalir.Text = "Salir";
-            this.btnSalir.UseVisualStyleBackColor = true;
-            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
-            // 
-            // tsUsuarios
-            // 
-            this.tsUsuarios.Dock = System.Windows.Forms.DockStyle.None;
-            this.tsUsuarios.ImageScalingSize = new System.Drawing.Size(24, 24);
-            this.tsUsuarios.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tsbNuevo,
-            this.tbsEditar,
-            this.tbsEliminar});
-            this.tsUsuarios.Location = new System.Drawing.Point(3, 0);
-            this.tsUsuarios.Name = "tsUsuarios";
-            this.tsUsuarios.Size = new System.Drawing.Size(291, 32);
-            this.tsUsuarios.TabIndex = 0;
-            // 
-            // mnuArchivo
-            // 
-            this.mnuArchivo.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mnuInicio,
-            this.mnuUsuarios,
-            this.mnuSalir});
-            this.mnuArchivo.Name = "mnuArchivo";
-            this.mnuArchivo.Size = new System.Drawing.Size(84, 29);
-            this.mnuArchivo.Text = "Archivo";
-            // 
-            // mnuSalir
-            // 
-            this.mnuSalir.Name = "mnuSalir";
-            this.mnuSalir.Size = new System.Drawing.Size(164, 30);
-            this.mnuSalir.Text = "Salir";
-            this.mnuSalir.Click += new System.EventHandler(this.mnuSalir_Click);
-            // 
-            // mnsPrincipal
-            // 
-            this.mnsPrincipal.ImageScalingSize = new System.Drawing.Size(24, 24);
-            this.mnsPrincipal.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mnuArchivo});
-            this.mnsPrincipal.Location = new System.Drawing.Point(0, 0);
-            this.mnsPrincipal.Name = "mnsPrincipal";
-            this.mnsPrincipal.Size = new System.Drawing.Size(800, 33);
-            this.mnsPrincipal.TabIndex = 1;
-            this.mnsPrincipal.Text = "menuStrip1";
-            // 
-            // mnuUsuarios
-            // 
-            this.mnuUsuarios.Name = "mnuUsuarios";
-            this.mnuUsuarios.Size = new System.Drawing.Size(164, 30);
-            this.mnuUsuarios.Text = "Usuarios";
-            // 
-            // mnuInicio
-            // 
-            this.mnuInicio.Name = "mnuInicio";
-            this.mnuInicio.Size = new System.Drawing.Size(164, 30);
-            this.mnuInicio.Text = "Inicio";
-            this.mnuInicio.Click += new System.EventHandler(this.mnuInicio_Click);
             // 
             // id
             // 
@@ -233,6 +160,40 @@
             this.habilitado.ReadOnly = true;
             this.habilitado.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Programmatic;
             // 
+            // btnActualizar
+            // 
+            this.btnActualizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnActualizar.Location = new System.Drawing.Point(591, 334);
+            this.btnActualizar.Name = "btnActualizar";
+            this.btnActualizar.Size = new System.Drawing.Size(100, 34);
+            this.btnActualizar.TabIndex = 1;
+            this.btnActualizar.Text = "Actualizar";
+            this.btnActualizar.UseVisualStyleBackColor = true;
+            this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
+            // 
+            // btnSalir
+            // 
+            this.btnSalir.Location = new System.Drawing.Point(697, 334);
+            this.btnSalir.Name = "btnSalir";
+            this.btnSalir.Size = new System.Drawing.Size(100, 34);
+            this.btnSalir.TabIndex = 2;
+            this.btnSalir.Text = "Salir";
+            this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
+            // 
+            // tsUsuarios
+            // 
+            this.tsUsuarios.Dock = System.Windows.Forms.DockStyle.None;
+            this.tsUsuarios.ImageScalingSize = new System.Drawing.Size(24, 24);
+            this.tsUsuarios.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tsbNuevo,
+            this.tbsEditar,
+            this.tbsEliminar});
+            this.tsUsuarios.Location = new System.Drawing.Point(3, 0);
+            this.tsUsuarios.Name = "tsUsuarios";
+            this.tsUsuarios.Size = new System.Drawing.Size(337, 32);
+            this.tsUsuarios.TabIndex = 0;
+            // 
             // tsbNuevo
             // 
             this.tsbNuevo.Image = global::UI.Desktop.Properties.Resources.add_plus;
@@ -241,6 +202,7 @@
             this.tsbNuevo.Size = new System.Drawing.Size(92, 29);
             this.tsbNuevo.Text = "Nuevo";
             this.tsbNuevo.ToolTipText = "Nuevo";
+            this.tsbNuevo.Click += new System.EventHandler(this.tsbNuevo_Click);
             // 
             // tbsEditar
             // 
@@ -249,6 +211,7 @@
             this.tbsEditar.Name = "tbsEditar";
             this.tbsEditar.Size = new System.Drawing.Size(85, 29);
             this.tbsEditar.Text = "Editar";
+            this.tbsEditar.Click += new System.EventHandler(this.tbsEditar_Click);
             // 
             // tbsEliminar
             // 
@@ -258,6 +221,48 @@
             this.tbsEliminar.Size = new System.Drawing.Size(102, 29);
             this.tbsEliminar.Text = "Eliminar";
             this.tbsEliminar.ToolTipText = "Eliminar";
+            this.tbsEliminar.Click += new System.EventHandler(this.tbsEliminar_Click);
+            // 
+            // mnuArchivo
+            // 
+            this.mnuArchivo.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mnuInicio,
+            this.mnuUsuarios,
+            this.mnuSalir});
+            this.mnuArchivo.Name = "mnuArchivo";
+            this.mnuArchivo.Size = new System.Drawing.Size(84, 29);
+            this.mnuArchivo.Text = "Archivo";
+            // 
+            // mnuInicio
+            // 
+            this.mnuInicio.Name = "mnuInicio";
+            this.mnuInicio.Size = new System.Drawing.Size(164, 30);
+            this.mnuInicio.Text = "Inicio";
+            this.mnuInicio.Click += new System.EventHandler(this.mnuInicio_Click);
+            // 
+            // mnuUsuarios
+            // 
+            this.mnuUsuarios.Name = "mnuUsuarios";
+            this.mnuUsuarios.Size = new System.Drawing.Size(164, 30);
+            this.mnuUsuarios.Text = "Usuarios";
+            // 
+            // mnuSalir
+            // 
+            this.mnuSalir.Name = "mnuSalir";
+            this.mnuSalir.Size = new System.Drawing.Size(164, 30);
+            this.mnuSalir.Text = "Salir";
+            this.mnuSalir.Click += new System.EventHandler(this.mnuSalir_Click);
+            // 
+            // mnsPrincipal
+            // 
+            this.mnsPrincipal.ImageScalingSize = new System.Drawing.Size(24, 24);
+            this.mnsPrincipal.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mnuArchivo});
+            this.mnsPrincipal.Location = new System.Drawing.Point(0, 0);
+            this.mnsPrincipal.Name = "mnsPrincipal";
+            this.mnsPrincipal.Size = new System.Drawing.Size(800, 33);
+            this.mnsPrincipal.TabIndex = 1;
+            this.mnsPrincipal.Text = "menuStrip1";
             // 
             // formUsuarios
             // 
