@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="db_backups\bestUsersQuery.sql" />
+    <Content Include="db_backups\CreateUser.sql" />
+    <Content Include="db_backups\SelectUsers.sql" />
     <Content Include="icons\add-plus.png" />
     <Content Include="icons\delete-trash.png" />
     <Content Include="icons\edit-pencil.png" />

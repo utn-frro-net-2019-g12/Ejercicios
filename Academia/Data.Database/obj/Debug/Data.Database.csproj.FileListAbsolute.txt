@@ -7,3 +7,12 @@ e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Da
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.dll
 e:\Users\Nicolas\Documents\GitHub\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\aleja\Ejercicios\Academia\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\aleja\Ejercicios\Academia\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\aleja\Ejercicios\Academia\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\aleja\Ejercicios\Academia\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\aleja\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\aleja\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\aleja\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\aleja\Ejercicios\Academia\Data.Database\obj\Debug\Data.Database.pdb
