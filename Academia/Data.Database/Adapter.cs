@@ -8,22 +8,22 @@ namespace Data.Database
 {
     public class Adapter {
         // Clave por defecto a utlizar para la cadena de conexion
-        const string consKeyDefaultCnnString = "ConnStringLocal";
+        const string consKeyDefaultCnnString = "ConnStringLocal"; // For Net3 User, Write "ConnStringLocal3"
 
         // private SqlConnection sqlConnection = new SqlConnection("ConnectionString;");
-        private SqlConnection _sqlConn;
+        private SqlConnection sqlConn;
 
-        protected SqlConnection sqlConn { get; set; }
+        protected SqlConnection SqlConn { get; set; }
 
         protected void OpenConnection() {
             string connectionStringSettings = ConfigurationManager.ConnectionStrings[consKeyDefaultCnnString].ConnectionString;
-            sqlConn = new SqlConnection(connectionStringSettings);
-            sqlConn.Open();
+            SqlConn = new SqlConnection(connectionStringSettings);
+            SqlConn.Open();
         }
 
         protected void CloseConnection() {
-            sqlConn.Close();
-            sqlConn = null;
+            SqlConn.Close();
+            SqlConn = null;
         }
 
         protected SqlDataReader ExecuteReader(String commandText) {

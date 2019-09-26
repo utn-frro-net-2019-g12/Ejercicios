@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="db_backups\bestUsersQuery.sql" />
+    <Content Include="db_backups\BestUsersQuery.sql" />
     <Content Include="db_backups\CreateUser.sql" />
     <Content Include="db_backups\SelectUsers.sql" />
     <Content Include="icons\add-plus.png" />

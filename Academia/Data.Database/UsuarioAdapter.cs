@@ -10,7 +10,7 @@ namespace Data.Database {
         
         private static List<Usuario> _Usuarios;
 
-        private static List<Usuario> Usuarios { get; set; }
+        public static List<Usuario> Usuarios { get; set; }
 
         // Before DB
         #region DatosEnMemoria
@@ -67,7 +67,7 @@ namespace Data.Database {
             List<Usuario> usuarios = new List<Usuario>();
             try {
                 this.OpenConnection();
-                SqlCommand cmdUsuarios = new SqlCommand("SELECT * FROM usuarios", sqlConn);
+                SqlCommand cmdUsuarios = new SqlCommand("SELECT * FROM usuarios", SqlConn);
                 SqlDataReader drUsusarios = cmdUsuarios.ExecuteReader();
                 while (drUsusarios.Read()) {
                     Usuario usr = new Usuario();
@@ -95,7 +95,7 @@ namespace Data.Database {
             Usuario usr = new Usuario();
             try {
                 this.OpenConnection();
-                SqlCommand cmdUsuarios = new SqlCommand("SELECT * FROM usuarios WHERE id_usuario = @id", sqlConn);
+                SqlCommand cmdUsuarios = new SqlCommand("SELECT * FROM usuarios WHERE id_usuario = @id", SqlConn);
                 cmdUsuarios.Parameters.Add("@id", SqlDbType.Int).Value = ID;
                 SqlDataReader drUsusarios = cmdUsuarios.ExecuteReader();
                 if (drUsusarios.Read()) {
@@ -121,7 +121,7 @@ namespace Data.Database {
             // Usuarios.Remove(this.GetOne(ID));
             try {
                 this.OpenConnection();
-                SqlCommand cmdDelete = new SqlCommand("SELECT * FROM usuarios WHERE id_usuario = @id", sqlConn);
+                SqlCommand cmdDelete = new SqlCommand("SELECT * FROM usuarios WHERE id_usuario = @id", SqlConn);
                 cmdDelete.Parameters.Add("@id", SqlDbType.Int).Value = ID;
                 cmdDelete.ExecuteNonQuery();
             } catch (Exception ex) {
@@ -138,7 +138,7 @@ namespace Data.Database {
                 SqlCommand cmdSave = new SqlCommand(
                     "UPDATE usuarios SET nombre_usuario = @nombre_usuario, clave = @clave, "+
                     "habilitado = @habilitado, nombre = @nombre, apellido = @apellido, email = @email "+
-                    "WHERE id_usuario=@id", sqlConn);
+                    "WHERE id_usuario=@id", SqlConn);
                 cmdSave.Parameters.Add("@id", SqlDbType.Int).Value = usuario.ID;
                 cmdSave.Parameters.Add("@nombre_usuario", SqlDbType.VarChar, 50).Value = usuario.NombreUsuario;
                 cmdSave.Parameters.Add("@clave", SqlDbType.VarChar, 50).Value = usuario.Clave;
@@ -161,7 +161,7 @@ namespace Data.Database {
                 SqlCommand cmdSave = new SqlCommand(
                     "INSERT INTO usuarios(nombre_usuario, clave, habilitado, nombre, apellido, email) " +
                     "values(@nombre_usuario, @clave, @habilitado, @nombre, @apellido, @email) " +
-                    "SELECT @@identity", sqlConn); // @@identity es para recuperar el ID que SQL Server asignó automáticamente
+                    "SELECT @@identity", SqlConn); // @@identity es para recuperar el ID que SQL Server asignó automáticamente
                 cmdSave.Parameters.Add("@nombre_usuario", SqlDbType.VarChar, 50).Value = usuario.NombreUsuario;
                 cmdSave.Parameters.Add("@clave", SqlDbType.VarChar, 50).Value = usuario.Clave;
                 cmdSave.Parameters.Add("@habilitado", SqlDbType.Bit).Value = usuario.Habilitado;
