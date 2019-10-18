@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Web.UI.HtmlControls;
 
 public partial class ListaUsuarios : System.Web.UI.Page {
     protected void Page_Load(object sender, EventArgs e) {
@@ -25,9 +25,12 @@ public partial class ListaUsuarios : System.Web.UI.Page {
 
 
     private void cargarDiasCalendario() {
-        // Cargar en el combo los items correspondientes a los días
-        // (del 1 al 31)
-        // NO SE COMO HACER APPEND EN C# :(
+        DropDownList numbers = (DropDownList)FindControl("ddlDiaFechaNacimiento");
+        if (numbers != null) {
+            for (int i = 1; i <= 31; i++) {
+                numbers.Items.Add(new ListItem(i.ToString()));;
+            }
+        }
     }
 
     /*

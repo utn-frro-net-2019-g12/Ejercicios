@@ -164,20 +164,9 @@
             UpdateMethod="ActualizarUsuario">
         </asp:ObjectDataSource>
         <br />
-        <table border="1">
+        <table id="numbers" border="1">
         <!-- table border="1" style="width:100%;" -->
-                        <!--
-                        <script runat="server">
-                            // cargarDiasCalendario();
-                            /*
-                            void loop() {
-                                for(int i=0; i<31; i++) {
-                                    .append("<asp:ListItem>" + i + "</asp:ListItem>");
-                                }
-                            }
-                            */
-                        </script>
-                        -->
+            <!-- Appended Numbers -->
             <tr>
                 <td align="center" colspan="2">
                     <asp:Label ID="lblAccion" runat="server" Text="Label"></asp:Label></td>
@@ -217,39 +206,11 @@
                 <td align="right" class="auto-style2">
                     Fecha de Nacimiento:</td>
                 <td>
+                    
                     <asp:DropDownList ID="ddlDiaFechaNacimiento" runat="server">
-                        <asp:ListItem>1</asp:ListItem>
-                        <asp:ListItem>2</asp:ListItem>
-                        <asp:ListItem>3</asp:ListItem>
-                        <asp:ListItem>4</asp:ListItem>
-                        <asp:ListItem>5</asp:ListItem>
-                        <asp:ListItem>6</asp:ListItem>
-                        <asp:ListItem>7</asp:ListItem>
-                        <asp:ListItem>8</asp:ListItem>
-                        <asp:ListItem>9</asp:ListItem>
-                        <asp:ListItem>10</asp:ListItem>
-                        <asp:ListItem>11</asp:ListItem>
-                        <asp:ListItem>12</asp:ListItem>
-                        <asp:ListItem>13</asp:ListItem>
-                        <asp:ListItem>14</asp:ListItem>
-                        <asp:ListItem>15</asp:ListItem>
-                        <asp:ListItem>16</asp:ListItem>
-                        <asp:ListItem>17</asp:ListItem>
-                        <asp:ListItem>18</asp:ListItem>
-                        <asp:ListItem>19</asp:ListItem>
-                        <asp:ListItem>20</asp:ListItem>
-                        <asp:ListItem>21</asp:ListItem>
-                        <asp:ListItem>22</asp:ListItem>
-                        <asp:ListItem>23</asp:ListItem>
-                        <asp:ListItem>24</asp:ListItem>
-                        <asp:ListItem>25</asp:ListItem>
-                        <asp:ListItem>26</asp:ListItem>
-                        <asp:ListItem>27</asp:ListItem>
-                        <asp:ListItem>28</asp:ListItem>
-                        <asp:ListItem>29</asp:ListItem>
-                        <asp:ListItem>30</asp:ListItem>
-                        <asp:ListItem>31</asp:ListItem>
+                    
                     </asp:DropDownList>
+                    
                     <asp:DropDownList ID="ddlMesFechaNacimiento" runat="server">
                         <asp:ListItem>Enero</asp:ListItem>
                         <asp:ListItem>Febrero</asp:ListItem>
